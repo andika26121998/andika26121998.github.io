@@ -1,2 +1,3 @@
-# andika26121998-api-dummy.github.io
+# andika26121998.github.io
 api dummy
+access andika26121998.github.io/data.json
